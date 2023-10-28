@@ -17,21 +17,6 @@ This is a computer vision-based people counter application that utilizes Region 
 - Numpy
 
 
-## Usage:
-1. Run the application:
-    ```bash
-    python people_counter.py --video_path [path_to_video]
-    ```
-
-    Optional arguments:
-    - `--roi`: Define a specific region of interest.
-    - `--save_path`: Directory where video and image outputs will be saved.
-
-2. During the execution, a window will display the video feed. Select the ROI by dragging the mouse if not provided as an argument.
-
-3. Monitor the count of people entering and exiting.
-
-4. Output recordings will be saved in the specified directory (or the default one if not provided). Each frame will be saved with its corresponding timestamp, date, and unique ID.
 
 ## Outputs:
 - **Video Output**: A video recording with the ROI, contour mapping, and heat map overlay.
