@@ -1,0 +1,8 @@
+ID: 1 crossed going down at Thu Jul 20 10:32:01 2023
+ID: 2 crossed going down at Thu Jul 20 10:32:14 2023
+ID: 3 crossed going down at Thu Jul 20 10:32:28 2023
+ID: 5 crossed going up at Thu Jul 20 10:32:33 2023
+ID: 7 crossed going down at Thu Jul 20 10:32:48 2023
+ID: 9 crossed going up at Thu Jul 20 10:32:49 2023
+ID: 10 crossed going up at Thu Jul 20 10:32:50 2023
+ID: 9 crossed going down at Thu Jul 20 10:33:04 2023
